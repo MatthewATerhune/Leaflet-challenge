@@ -39,7 +39,7 @@ Plot a second data set on our map.
 
 Add a number of base maps to choose from as well as separate out our two different data sets into overlays that can be turned on and off independently.
 
-![plot](./images/advanced_map.png)
+![plot](./Images/advanced_map.png)
 
 Assessment --
 Your final product will be assessed on the following metrics:
