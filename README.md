@@ -19,7 +19,7 @@ Your Task--
 
 Level 1: Basic Visualization
 
-![plot](/images/basic_map.png)
+![plot](/Images/basic_map.png)
 
 Your first task is to visualize an earthquake data set.
 
